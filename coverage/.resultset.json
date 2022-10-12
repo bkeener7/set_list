@@ -253,6 +253,39 @@
           null
         ]
       },
+      "/Users/sage/Turing/2_mod/1_week_lessons/set_list/spec/features/songs/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/sage/Turing/2_mod/1_week_lessons/set_list/app/models/artist.rb": {
         "lines": [
           1,
@@ -278,7 +311,7 @@
         "lines": [
           1,
           1,
-          0,
+          1,
           null,
           null,
           1,
@@ -294,6 +327,6 @@
         ]
       }
     },
-    "timestamp": 1665613932
+    "timestamp": 1665615119
   }
 }
