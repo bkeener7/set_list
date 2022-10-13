@@ -18,9 +18,6 @@ RSpec.describe 'songs index page', type: :feature do
                     play_count: 1214722172,
                     artist_id: artist.id)
                 visit "/songs"
-
-                
-                save_and_open_page
                 
                 expect(page).to have_content(song_1.title)
                 expect(page).to have_content("Play Count: #{song_1.play_count}")
